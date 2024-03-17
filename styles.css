@@ -1,0 +1,18 @@
+titleHeader, h1 {
+	font-family: "Roboto Mono", monospace;
+}
+h2 {
+	font-family: "Roboto Mono", monospace;
+	padding-left: 20;
+}
+contentList, ol {
+	font-family: "Roboto Slab", serif;
+	font-size: 20;
+}
+p {
+	font-family: "Roboto Slab", serif;
+	font-size: 15;
+	padding: 20;
+	padding-top: 0;
+	padding-bottom: 0;
+}
